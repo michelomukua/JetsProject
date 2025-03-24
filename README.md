@@ -17,14 +17,14 @@
  8. Allowed the user to remover a jet from the fleet.
  9. Allowed the user to choose to quit after running the program.
  
-  
+ 
 
 # Technologies/ Concepts used
- Casting
  If/else if loop
  Scanner
  BufferedReader
  Line split
+ Casting
 
 # Lessons learned
  Abstract classes have to be implemented.
